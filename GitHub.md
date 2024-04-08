@@ -14,6 +14,8 @@ git checkout -b feature/new-feature
 Example:
 git pull-request
 
+example 1
+
 ## Handling Conflicts
 - GitHub notifies about conflicts during the pull request process.
 - Resolve conflicts by communicating with your teammate and adjusting code accordingly.
