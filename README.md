@@ -16,7 +16,6 @@
 <h2>Checklist</h2>
 <ul>
     <li><a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) Checklist</a> - Guidelines and checklist to make web content more accessible for people with disabilities.</li>
-    <li><a href="https://www.smashingmagazine.com/2018/12/front-end-performance-checklist-2019-pdf-pages/">Front-End Performance Checklist 2019</a> - A checklist to help developers improve the performance of their web projects.</li>
     <li><a href="https://web.dev/measure/">Lighthouse</a> - An open-source, automated tool for improving the quality of web pages. It provides audits for performance, accessibility, progressive web apps, and more.</li>
     <li><a href="https://developers.google.com/speed/pagespeed/insights/">Google PageSpeed Insights</a> - Analyzes the content of a web page and generates suggestions to make that page faster. It provides both lab and field data about a page's performance.</li>
     <li><a href="https://www.webpagetest.org/">WebPageTest</a> - A free online tool for testing and analyzing the performance of web pages. It offers detailed performance metrics and recommendations for optimization.</li>
