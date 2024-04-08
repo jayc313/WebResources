@@ -17,3 +17,6 @@ git pull-request
 ## Handling Conflicts
 - GitHub notifies about conflicts during the pull request process.
 - Resolve conflicts by communicating with your teammate and adjusting code accordingly.
+
+
+Example of added text 1
